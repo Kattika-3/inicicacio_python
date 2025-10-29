@@ -1,0 +1,2 @@
+# inicicacio_python
+jui
