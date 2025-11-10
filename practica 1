@@ -1,0 +1,14 @@
+nom = input("Introdueix el teu nom: ")
+print(nom)
+
+Any_naixament = input("Introdueix el teu any de naixament: ")
+print(Any_naixament) 
+
+Any_naixament_float = float(Any_naixament)
+print(Any_naixament_float)
+
+x = 2025
+y = (Any_naixament_float)
+result = x - y
+print(result) 
+

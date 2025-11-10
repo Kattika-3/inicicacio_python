@@ -1,5 +1,5 @@
 print("Hola!,món")
-
+import random
 #Això és un comentari
 
 """
